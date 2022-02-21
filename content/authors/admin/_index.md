@@ -1,6 +1,7 @@
 ---
 title: Noga Aharony
 role: Doctoral Student in Systems Biology
+avatar_filename: 002adbf9-8562-45be-9f15-8a0e05046872_1_105_c-2.jpeg
 bio: I am interested in how to represent genomic data in manners that will allow
   us to extract more information.
 interests:
