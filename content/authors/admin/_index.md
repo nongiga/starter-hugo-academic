@@ -6,7 +6,8 @@ bio: I am interested in how to represent genomic data in manners that will allow
   us to extract more information.
 interests:
   - Genomics
-  - ML
+  - Machine Learning
+  - Microbiology
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,6 +29,8 @@ organizations:
     url: https://www.columbia.edu/
 education:
   courses:
+    - institution: Columbia University
+      course: PhD in Systems Biology
     - course: MSc in Biology
       institution: Technion - Israel Institute of Technology
       year: 2021
